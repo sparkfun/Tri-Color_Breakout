@@ -6236,6 +6236,10 @@ V = I * R</text>
 <text x="22.86" y="137.16" size="1.778" layer="97">Part: 36QBK-ND</text>
 <text x="22.86" y="127" size="1.778" layer="97">Part: 22QBK-ND</text>
 <text x="22.86" y="116.84" size="1.778" layer="97">Part: 22QBK-ND</text>
+<text x="50.8" y="78.74" size="1.778" layer="97">Measurements @ 5V:</text>
+<text x="86.36" y="78.74" size="1.778" layer="97">73.4mA</text>
+<text x="124.46" y="78.74" size="1.778" layer="97">63.6mA</text>
+<text x="162.56" y="78.74" size="1.778" layer="97">68.3mA</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
