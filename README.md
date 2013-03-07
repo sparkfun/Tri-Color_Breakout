@@ -9,10 +9,10 @@ A simple breakout board to control three larger LEDs. Each 10mm LED requires 65-
 Product Versions
 ----------------
 
-**[KIT-10111](https://www.sparkfun.com/products/10111) - current version, OEM packaging**
+**[KIT-10111](https://www.sparkfun.com/products/10111) - current version, OEM packaging**  
 The current version of the Tri-Color LED Breakout Kit in standard OEM packaging.
 
-**[KIT-10778](https://www.sparkfun.com/products/10778) - current version, retail packaging**
+**[KIT-10778](https://www.sparkfun.com/products/10778) - current version, retail packaging**  
 The current version of the Tri-Color LED Breakout Kit in a retail-ready plastic clam shell.
 
 License Information
