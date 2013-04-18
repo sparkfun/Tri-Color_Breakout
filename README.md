@@ -6,14 +6,19 @@ Tri-Color LED Breakout Kit
 
 A simple breakout board to control three larger LEDs. Each 10mm LED requires 65-75mA to drive the LED at full brightness. This breakout uses basic NPN transistors and current limiting resistors to push each LED to its limit.
 
+The hardware was designed in Eagle v6.3
+
+Repository Contents
+-------------------
+* **/Firmware** - Eample Arduino sketch
+* **/Hardware** - All Eagle design files (.brd, .sch)
+
+
 Product Versions
 ----------------
 
-**[KIT-10111](https://www.sparkfun.com/products/10111) - current version, OEM packaging**  
-The current version of the Tri-Color LED Breakout Kit in standard OEM packaging.
-
-**[KIT-10778](https://www.sparkfun.com/products/10778) - current version, retail packaging**  
-The current version of the Tri-Color LED Breakout Kit in a retail-ready plastic clam shell.
+*[KIT-10111](https://www.sparkfun.com/products/10111) - The current version of the Tri-Color LED Breakout Kit in standard OEM packaging.
+*[KIT-10778](https://www.sparkfun.com/products/10778) - The current version of the Tri-Color LED Breakout Kit in a retail-ready plastic clam shell.
 
 License Information
 -------------------
