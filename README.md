@@ -1,7 +1,7 @@
 Tri-Color LED Breakout Kit
 ==========================
 
-[![Tri-Color LED Breakout Kit](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/7/7/8/10778-07_i_ma.jpg)  
+[![Tri-Color LED Breakout Kit](https://cdn.sparkfun.com/assets/parts/4/3/5/9/10111-01.jpg)  
 *Tri-Color LED Breakout Kit (KIT-10111)*](https://www.sparkfun.com/products/10111)
 
 A simple breakout board to control three larger LEDs. Each 10mm LED requires 65-75mA to drive the LED at full brightness. This breakout uses basic NPN transistors and current limiting resistors to push each LED to its limit.
